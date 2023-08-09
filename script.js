@@ -382,3 +382,9 @@ function clickDots() {
 }
 
 clickDots();
+
+/////////////////////////////////////////////////////////////////////////////
+
+document.addEventListener("DOMContentLoaded", function () {
+  console.log("Страница загрузилась");
+});
